@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=29&text=Dipram%20Biswas&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Creative%20Frontend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="githubbanner.webp" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Don't%20just%20code%2C%20make%20it%20look%20alive" alt="Typing introduction" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Dipram-9090">
-    <img src="https://komarev.com/ghpvc/?username=Dipram-9090&label=Profile%20views&color=00FFFF&style=flat-square" alt="Dipram-9090's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Dipram-9090&label=Profile%20views&color=5430FA&style=for-the-badge" alt="Dipram-9090's profile views" />
   </a>
 </p>
 
@@ -31,15 +31,14 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Dipram-9090">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dipram-9090&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="Dipram-9090's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Dipram-9090&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Dipram-9090's GitHub Streak" width="49%" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dipram-9090&bg_color=131313&title_color=5043FA&text_color=FFFFFF&icon_color=5043FA&border_color=30363D&border_radius=12" />  </a>
+  <img src="https://streak-stats.demolab.com?user=Dipram-9090&background=131313&ring=5043FA&fire=5043FA&currStreakLabel=5043FA&sideLabels=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&stroke=30363D&border_radius=12" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Dipram-9090&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dipram Biswas's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Dipram-9090&theme=algolia&title_color=19E6B6&text_color=FFFFFF&bg_color=131313&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipram-9090&theme=gruvbox&radius=10" alt="Dipram-9090's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipram-9090&bg_color=131313&color=8B949E&line=5043FA&point=FFFFFF&area=true&area_color=5043FA&radius=12" />
 </p>
 
 
@@ -62,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/Dipram-9090">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dipram-9090&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dipram-9090&langs_count=8&layout=compact&bg_color=131313&title_color=5043FA&text_color=FFFFFF&icon_color=19E6B6&border_color=30363D&border_radius=12" />
   </a>
 </p>
 
