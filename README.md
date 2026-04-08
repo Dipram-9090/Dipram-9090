@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/fa/61/92/fa6192ef1935fde727ae094ce6ec71bc.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/e2/37/67/e23767638fb72ccea204eab108555e82.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m Dipram — a 2nd year IT student who loves turning ideas into real, interactive things on the internet.
