@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e2/37/67/e23767638fb72ccea204eab108555e82.gif" alt="Banner" width="100%" />
+<img src="/startgif.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m Dipram — a 2nd year IT student who loves turning ideas into real, interactive things on the internet.
@@ -72,6 +72,6 @@
 <p align="center"><a href="https://www.linkedin.com/in/dipram-biswas" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/919232696735" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:dipramb9090@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.dipram.in" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/57/49/db/5749dbc0f74fdc80e2b04a52fc9585e8.gif" alt="Bottom Line" width="100%" />
+  <img src="/endgif.gif" alt="Bottom Line" width="100%" />
 </div>
 
