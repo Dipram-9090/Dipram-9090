@@ -31,14 +31,14 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Dipram-9090">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dipram-9090&bg_color=131313&title_color=5043FA&text_color=FFFFFF&icon_color=5043FA&border_color=30363D&border_radius=12" />  </a>
-  <img src="https://streak-stats.demolab.com?user=Dipram-9090&background=131313&ring=5043FA&fire=5043FA&currStreakLabel=5043FA&sideLabels=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&stroke=30363D&border_radius=12" width="49%" />
+  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dipram-9090&bg_color=131313&title_color=5043FA&text_color=FFFFFF&icon_color=5043FA&border_color=30363D&border_radius=12" />  </a>
+  <img src="https://streak-stats.demolab.com?user=Dipram-9090&background=131313&ring=5043FA&fire=5043FA&currStreakLabel=5043FA&sideLabels=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&stroke=30363D&border_radius=12" width="60%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Dipram-9090&theme=algolia&title_color=19E6B6&text_color=FFFFFF&bg_color=131313&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipram-9090&bg_color=131313&color=8B949E&line=5043FA&point=FFFFFF&area=true&area_color=5043FA&radius=12" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipram-9090&bg_color=131313&color=8B949E&line=5043FA&point=FFFFFF&area=true&area_color=5043FA&radius=12" />
 </p>
 
 
